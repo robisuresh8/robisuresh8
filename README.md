@@ -1,10 +1,10 @@
 # Hi there, I'm Robi Suresh Manukonda! 👋
 
-[cite_start]I'm a final-year Computer Engineering undergrad at St. Vincent Pallotti College of Engineering & Technology[cite: 4, 44]. [cite_start]I'm full of energy and passionate about the coding world, especially Machine Learning, Deep Learning, and Computer Vision. [cite: 4]
+I'm a final-year Computer Engineering undergrad at St. Vincent Pallotti College of Engineering & Technology. I'm full of energy and passionate about the coding world, especially Machine Learning, Deep Learning, and Computer Vision.
 
-- [cite_start]🎓 Studying Computer Engineering (B.E.), graduating in 2026. [cite: 44, 62]
-- [cite_start]💡 My core interests are AI, Deep Learning (CNNs), and NLP. [cite: 42, 22]
-- [cite_start]🔬 I authored a research paper on "ML-Based Comparative Analysis for Automated Blood Cancer Diagnosis & Classification." [cite: 68, 70]
+- 🎓 Studying Computer Engineering (B.E.), graduating in 2026.
+- 💡 My core interests are AI, Deep Learning (CNNs), and NLP.
+- 🔬 I authored a research paper on "ML-Based Comparative Analysis for Automated Blood Cancer Diagnosis & Classification."
 - 🤝 Looking to collaborate on open-source AI and computer vision projects.
 
 ---
@@ -16,7 +16,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>&nbsp;
   <a href="mailto:robisuresh8@gmail.com">
-    <img src="https://img.shields.io/badge/Email-robisuresh8@gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"> 
+  <img src="https://img.shields.io/badge/Email-robisuresh8@gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"> 
   </a>&nbsp;
 </p>
 
@@ -24,7 +24,7 @@
 
 ### 💻 My Tech Stack
 
-[cite_start]These are the technologies I've worked with through my projects and certifications: [cite: 42, 60]
+These are the technologies I've worked with through my projects and certifications:
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
