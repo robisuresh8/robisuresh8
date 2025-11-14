@@ -1,16 +1,59 @@
-## Hi there 👋
+# Hi there, I'm Robi Suresh Manukonda! [cite_start]👋 [cite: 1]
 
-<!--
-**robisuresh8/robisuresh8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[cite_start]I'm a final-year Computer Engineering undergrad at St. Vincent Pallotti College of Engineering & Technology[cite: 4, 44]. [cite_start]I'm full of energy and passionate about the coding world, especially Machine Learning, Deep Learning, and Computer Vision. [cite: 4]
 
-Here are some ideas to get you started:
+- [cite_start]🎓 Studying Computer Engineering (B.E.), graduating in 2026. [cite: 44, 62]
+- [cite_start]💡 My core interests are AI, Deep Learning (CNNs), and NLP. [cite: 42, 22]
+- [cite_start]🔬 I authored a research paper on "ML-Based Comparative Analysis for Automated Blood Cancer Diagnosis & Classification." [cite: 68, 70]
+- 🤝 Looking to collaborate on open-source AI and computer vision projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📬 How to Reach Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/robi-suresh" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>&nbsp;
+  <a href="mailto:robisuresh8@gmail.com">
+    [cite_start]<img src="https://img.shields.io/badge/Email-robisuresh8@gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"> [cite: 2]
+  </a>&nbsp;
+</p>
+
+---
+
+### 💻 My Tech Stack
+
+[cite_start]These are the technologies I've worked with through my projects and certifications: [cite: 42, 60]
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras">
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV">
+  <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn">
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</p>
+
+---
+
+### 📊 My GitHub Stats
+
+These update automatically to show my activity.
+
+<p align="center">
+  <a href="https://github.com/robisuresh8">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=robisuresh8&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Robi's GitHub Stats">
+  </a>
+  <a href="https://github.com/robisuresh8">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robisuresh8&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Languages">
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/robisuresh8">
+    <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=robisuresh8&theme=tokyonight&hide_border=true&area=true&line=94b4a3&point=4d4d4d" alt="Contribution Graph">
+  </a>
+</p>
