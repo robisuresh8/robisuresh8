@@ -1,4 +1,4 @@
-# Hi there, I'm Robi Suresh Manukonda! [cite_start]👋 [cite: 1]
+# Hi there, I'm Robi Suresh Manukonda! 👋
 
 [cite_start]I'm a final-year Computer Engineering undergrad at St. Vincent Pallotti College of Engineering & Technology[cite: 4, 44]. [cite_start]I'm full of energy and passionate about the coding world, especially Machine Learning, Deep Learning, and Computer Vision. [cite: 4]
 
@@ -16,7 +16,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>&nbsp;
   <a href="mailto:robisuresh8@gmail.com">
-    [cite_start]<img src="https://img.shields.io/badge/Email-robisuresh8@gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"> [cite: 2]
+    <img src="https://img.shields.io/badge/Email-robisuresh8@gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"> 
   </a>&nbsp;
 </p>
 
