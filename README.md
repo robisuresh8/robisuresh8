@@ -1,6 +1,6 @@
 # Hi there, I'm Robi Suresh Manukonda! 👋
 
-I'm a final-year Computer Engineering undergrad at St. Vincent Pallotti College of Engineering & Technology. I'm full of energy and passionate about the coding world, especially Machine Learning, Deep Learning, and Computer Vision.
+I'm a Computer Engineering undergraduate from St. Vincent Pallotti College of Engineering & Technology. I'm full of energy and passionate about the coding world, especially Machine Learning, Deep Learning, and Computer Vision.
 
 - 🎓 Studying Computer Engineering (B.E.), graduating in 2026.
 - 💡 My core interests are AI, Deep Learning (CNNs), and NLP.
